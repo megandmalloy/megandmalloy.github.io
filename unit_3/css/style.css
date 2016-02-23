@@ -1,0 +1,33 @@
+body {background-color:#FFFFFF;
+ text-align: center;
+}
+
+h1, h3 {font-family: helvetica, sans-serif;
+font-weight: normal;
+text-decoration: none;
+text-transform: lowercase;
+text-align: center;
+color: #D980FF;}
+
+h1 {font-weight: bold;}
+
+h3 {
+	font-size: 24px;
+}
+
+#second {font-weight: bold;}
+
+h1 {font-weight: bold;}
+
+h3 {
+	font-size: 24px;
+}
+
+
+p {color: #D980FF;
+	font-family: "Courier New", monospace;
+text-align: center;}
+
+
+	a{font-style: normal;
+		text-decoration: none;}
