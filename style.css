@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Alice);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+body {background-color:#FFFFFF;
+ text-align: center;
+}
+
+.bestclass{font-family: 'Alice', serif;}
+.headline{font-family: 'Quicksand', sans-serif;}
+
+h1, h3 {font-family: helvetica, sans-serif;
+font-weight: normal;
+text-decoration: none;
+text-transform: lowercase;
+text-align: center;
+color: #D980FF;}
+
+h1 {font-weight: bold;}
+
+h3 {
+	font-size: 24px;
+}
+
+#second {font-weight: bold;}
+
+h1 {font-weight: bold;}
+
+h3 {
+	font-size: 24px;
+}
+
+
+p {color: #D980FF;
+text-align: center;}
+
+
+	a{font-style: normal;
+		text-decoration: none;}
