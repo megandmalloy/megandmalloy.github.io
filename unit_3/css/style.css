@@ -1,14 +1,20 @@
+<<<<<<< HEAD
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 @import url(https://fonts.googleapis.com/css?family=Alice);
 @import url(https://fonts.googleapis.com/css?family=Quicksand);
 
+=======
+>>>>>>> origin/master
 body {background-color:#FFFFFF;
  text-align: center;
 }
 
+<<<<<<< HEAD
 .bestclass{font-family: 'Alice', serif;}
 .headline{font-family: 'Quicksand', sans-serif;}
 
+=======
+>>>>>>> origin/master
 h1, h3 {font-family: helvetica, sans-serif;
 font-weight: normal;
 text-decoration: none;
@@ -32,6 +38,10 @@ h3 {
 
 
 p {color: #D980FF;
+<<<<<<< HEAD
+=======
+	font-family: "Courier New", monospace;
+>>>>>>> origin/master
 text-align: center;}
 
 
